@@ -1,5 +1,7 @@
 # unfamiliarplace.github.io
 
+[Click here to see this page deployed on Github Pages](https://g.sawczak.com)
+
 Here are some of the tools I've made that are hosted on Github Pages:
 
 * [Timer](https://g.sawczak.com/timer)
